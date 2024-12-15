@@ -151,22 +151,8 @@ During a live demonstration:
 
 ---
 
-## Repository and Image Links
-- GitHub Repository: [Seaker-Alert-App](https://github.com/your-username/Seaker-Alert-App)
-- Docker Hub Image: [seaker-alert-app](https://hub.docker.com/r/your-username/seaker-alert-app)
-
----
-
 ## Optional Features
 - **IoT Protocol Support**: MQTT integration for pushing metrics to/from IoT devices.
 - **Role-Based Access Control**: Add admin/viewer roles for dashboard access.
 - **Temperature Monitoring**: Extend support for device temperature (if hardware allows).
 
----
-
-## License
-This project is open-source and licensed under the MIT License.
-
----
-
-Feel free to customize this `README.md` with specific repository links or additional details!
